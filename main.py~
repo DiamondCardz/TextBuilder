@@ -1,0 +1,4 @@
+print('TextBuilder, by whiskers75!')
+f = open('./sav.txt', 'w')
+print f
+f.read()
